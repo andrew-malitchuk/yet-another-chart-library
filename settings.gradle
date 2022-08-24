@@ -16,3 +16,4 @@ rootProject.name = "yet-another-chart-library"
 include ':app'
 include ':yacl'
 include ':yacl:line'
+include ':yacl:core'
